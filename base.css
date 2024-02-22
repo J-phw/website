@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(167, 55, 55);
+    text-align:center;
+    color:rgb(255, 244, 237)
+}
+.header {
+    font-size: x-large;
+    padding: 2%;
+    font-family: "IBM Plex Mono", monospace;
+    font-style: normal;
+}
+.timer {
+    font-size: x-large;
+    font-family: "IBM Plex Mono", monospace;
+}
